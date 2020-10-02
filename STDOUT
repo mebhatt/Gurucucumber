@@ -1,0 +1,8 @@
+@Compareproduct
+Feature: Prodcut comparison popup check and verify
+
+  Scenario: Adding product to compare and check product visibility [90m# src/test/java/Features/FF04_Compareproduct.feature:6[0m
+    [32mGiven [0m[32mUser is on demoguru website and click mobile[0m             [90m# FF04_Compareproduct.user_is_on_demoguru_website_and_click_mobile()[0m
+    [32mAnd [0m[32mUser click compare for Soney xperia and iphone[0m             [90m# FF04_Compareproduct.user_click_compare_for_Soney_xperia_and_iphone()[0m
+    [32mAnd [0m[32mUser click on COMPARE button[0m                               [90m# FF04_Compareproduct.user_click_on_COMPARE_button()[0m
+    [32mThen [0m[32mPop up windows comes up and verify the prodcut inside.[0m    [90m# FF04_Compareproduct.pop_up_windows_comes_up_and_verify_the_prodcut_inside()[0m

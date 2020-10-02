@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.36897">
+<testcase classname="Prodcut comparison popup check and verify" name="Adding product to compare and check product visibility" time="14.36897">
+<system-out><![CDATA[Given User is on demoguru website and click mobile..........................passed
+And User click compare for Soney xperia and iphone..........................passed
+And User click on COMPARE button............................................passed
+Then Pop up windows comes up and verify the prodcut inside..................passed
+]]></system-out>
+</testcase>
+</testsuite>
