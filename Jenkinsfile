@@ -6,7 +6,9 @@ stage('scm checkout'){
       stage('Compile-package'){
        
       def MavHome = tool name: 'MAVEN_HOME', type: 'maven'
+
       sh "mvn clean install"
+
       
       }
 }
